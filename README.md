@@ -1,2 +1,4 @@
 # LITA_CLASS_DOC
-My first project with the Incubator Hub
+## LITA_CLASS_ documentation
+### LITA_CLASS_DOCUMENTATION
+#### LITA_CLASS_DOCUMENTATION
