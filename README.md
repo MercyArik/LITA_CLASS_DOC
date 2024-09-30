@@ -1,4 +1,4 @@
-# LITA_CLASS_DOC
+# LITA_CLASS_DOCUMENT
 
-### Project Title: E commerce Sales Analysis
-```
+### Project Title: Analysis of Regional Sales Revenue
+
