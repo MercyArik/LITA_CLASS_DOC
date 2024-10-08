@@ -1,4 +1,4 @@
-## LITA_CLASS_DOCUMENT
+## FIRST_C_DOCUMENT
 
 ### Project Title: Analysis of Regional Sales Revenue
 
