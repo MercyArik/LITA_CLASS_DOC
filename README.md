@@ -36,6 +36,8 @@ The following is some basic lines of code and queries employed to successfully c
 ```Excel
 =IF(J2<=20,"low",IF(J2<=50,"medium","HIGH"))
 
+### Data Visualization
+
 
 
 
