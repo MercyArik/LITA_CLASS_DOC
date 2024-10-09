@@ -1,6 +1,6 @@
 ## FIRST_C_DOCUMENT
 
-```### Project Title: Analysis of Regional Sales Revenue
+### Project Title: Analysis of Regional Trade Revenue
 
 ### Project Overview
 This Data Analysis project aims to produce insight into the regional revenue of different line of business over two fiscal years  in the Federal capital territory. By analysing the various parameters in the data gathered, we seek to assemble enough insight to make reasonable decisions which  then enable us to tell compelling narratives around ourdata from the insight gotten and to know the best performance from our data.
@@ -28,9 +28,9 @@ EDA involved the exploring of the Data to answer some questions about the Data s
 ### Data Analysis
 This is where we include some basic lines of code or queries or even some of the DAX expressions used during analysis;
 
-```SQL
-Select * from Table1
-Where Condition = True
+```Excel
+=IF(J2<=20,"low",IF(J2<=50,"medium","HIGH"))
+
 
 
 
