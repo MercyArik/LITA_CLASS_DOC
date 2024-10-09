@@ -31,7 +31,7 @@ EDA involved the exploring of the Data to answer some questions about revenue tr
 
 ### Data Analysis
 Used Pivot tables and bar charts to visualize the distribution of sales across regions.
-The following is some basic lines of code or queries or even some of the DAX expressions used during analysis;
+The following is some basic lines of code and queries employed to successfully carry out the analysis; 
 
 ```Excel
 =IF(J2<=20,"low",IF(J2<=50,"medium","HIGH"))
