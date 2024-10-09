@@ -35,8 +35,15 @@ The following is some basic lines of code and queries employed to successfully c
 
 ```Excel
 =IF(J2<=20,"low",IF(J2<=50,"medium","HIGH"))
+```
 
 ### Data Visualization
+
+![Pivot_image](https://github.com/user-attachments/assets/e415f02d-47ab-4f07-a0c3-beec320c936b)
+
+![Revenue by region](https://github.com/user-attachments/assets/333c6fbc-53b1-49c7-8f72-7f38689f7bcb)
+
+
 
 
 
