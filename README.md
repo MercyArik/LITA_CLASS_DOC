@@ -43,6 +43,11 @@ The following is some basic lines of code and queries employed to successfully c
 
 ![Revenue by region](https://github.com/user-attachments/assets/333c6fbc-53b1-49c7-8f72-7f38689f7bcb)
 
+### Report and Insights
+Sales Performance by Region:
+
+The analysis of units sold by region reveals that the Northeast had the highest sales, followed closely by the Southwest, while the Northcentral region recorded the lowest sales figures. This suggests the need for increased focus on the Northcentral region to better understand customer behavior and product acceptance. A deeper dive into this region's market trends could provide valuable insights for improving sales strategies and engagement.
+
 
 
 
