@@ -1,7 +1,5 @@
-## Regional_Revenue_Trends
----
 ### Project Title: Analysis of Regional Trade Revenue
-
+---
 ### Project Overview
 This Data Analysis project aims to produce insights into the regional revenue of a line of business over two fiscal years in the Federal capital territory. By analysing the various parameters in the data gathered, I seek to assemble enough insight to make reasonable decisions which then enable me to tell compelling narratives around the data from the insights gotten and to know the best performance from our data.
 
